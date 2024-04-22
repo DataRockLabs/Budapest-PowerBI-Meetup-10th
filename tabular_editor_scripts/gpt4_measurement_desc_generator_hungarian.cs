@@ -5,7 +5,7 @@ using System.IO;
 
 // You need to signin to https://platform.openai.com/ and create an API key for your profile then paste that key 
 
-const string apiKeyFilePath = "C:\\Users\\drl_admin\\Desktop\\api_key.txt";
+const string apiKeyFilePath = "API_KEY_PATH";
 const string uri = "https://api.openai.com/v1/chat/completions";
 
 const int sleepTime = 20000; // the number of milliseconds
